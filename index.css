@@ -1,0 +1,79 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+      background-color:#A5ACAF;
+      background:
+linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+background-color:#708090;
+background-size: 64px 128px
+
+    }
+    body {
+       width: 1000px;
+       height: 100%;
+       background-image:
+       text-align:right;
+}
+    header {
+        background-color: #69BE28;
+        padding: 50px;
+        border: 20px solid #002244;
+        margin: 80px;
+        font-size: 20px;
+        font-style: ;
+        display: block;
+        text-align: center;
+        background-image: url(seahawkslogo.jpg);
+    }
+    nav {
+        float: left;
+    }
+    nav ul {
+        padding:30px ;
+        font-size: 25px;
+        float: center;
+        border: ;
+        list-style-type:
+    }
+    nav li {
+        float: center;
+        border: 20px;
+    }
+    nav li a {
+        display: block;
+        background-color:
+        height: 10px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: super;
+        float: center;
+        border-radius: 20px;
+    }
+    a {
+        color: ;''
+    }
+    section {
+        width: 50%;
+        display: grid;;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
